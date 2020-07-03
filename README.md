@@ -1,5 +1,4 @@
 # hello-world
-Ye olde repository
 
 Hello guys!
 
